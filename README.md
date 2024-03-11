@@ -1,5 +1,7 @@
 # ERP
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4cf3a716-f52f-43d6-b956-9a6a69c87782/deploy-status)](https://erp-entnt.netlify.app/)
+
 This project is an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. The system consists of the following pages:
 
 - Dashboard - Provides an overview of the system.
